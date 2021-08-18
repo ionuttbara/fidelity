@@ -34,10 +34,15 @@ We are using Unlocker to remove some unwanted System Files , which is claimed by
 
 ## Attention
 ✳️ Some Parts of Fidelity are in beta and in Early-Access. Please apply LAST VERSION.
+
 ✳️ Windows Defender is not be Removed even if you use a EAS or non-EAS fidelity.
-✳️ EAS Fidelity is recommended for who is use Windows Update Services (WSUS). Some modification will be reverted by applying Major Updates, but it can be applied again for keeping settings.ț
-✳️ Non-EAS Fidelity is recommended for who want to win  maximum performance for your system. Hyper-V, Containers (Windows-to-Linux) or WSH , Holographic, System Blotware Tools and Windows SMB Support
-wil be removed COMPLETELY!!! If you want to keep one of these, can apply an EAS Fidelity for your Operating System Version.
+
+✳️ EAS Fidelity is recommended for who is use Windows Update Services (WSUS). Some modification will be reverted by applying Major Updates, but it can be applied again for keeping settings.
+
+✳️ Non-EAS Fidelity is recommended for who want to win  maximum performance for your system. Hyper-V, Containers (Windows-to-Linux) or WSH , Holographic, System Blotware Tools,Windows Remote Desktop and Windows SMB 
+Support wil be removed COMPLETELY!!! If you want to keep one of these, can apply an EAS Fidelity for your Operating System Version.
+
 ✳️ Also, we are working a non-EAS version for who Windows Mixed Reality Users and for Windows 10/11 Tablet PC Users.
+
 ## Windows Defender
 If you want to use 3rd party Antivirus, we recommend to remove Windows Defender first. To remove Windows Defender please use Windows Defender Remover from this profile.
