@@ -45,4 +45,5 @@ Support wil be removed COMPLETELY!!! If you want to keep one of these, can apply
 ✳️ Also, we are working a non-EAS version for who Windows Mixed Reality Users and for Windows 10/11 Tablet PC Users.
 
 ## Windows Defender
-If you want to use 3rd party Antivirus, we recommend to remove Windows Defender first. To remove Windows Defender please use Windows Defender Remover from this profile.
+If you want to use 3rd party Antivirus, we recommend to remove Windows Defender first. To remove Windows Defender please use Windows Defender Remover from this link:
+https://github.com/jbara2002/windows-defender-remover
