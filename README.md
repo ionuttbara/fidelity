@@ -9,7 +9,7 @@ Fidelity uses Windows Library to Optimize your system. These more type of system
 Also is coming with a host, which is playing as an "System Ad-Blcoker". (Starting with 11.02 and GamePass Download Errors, we've removed Hosts and Firewall Rules).
 
 ✳️ Windows Defender is not be Removed , and you can do Windows Updates, but you will NOT be annonyed by Updates..
-✳️ After applying Fidelity, uBlock Origin plugin installed in your browser. Also we added CleanURL for privacy and better web experience, PiP Support for Google Chrome and a Youtube Enchanter.
+✳️ After applying Fidelity, uBlock Origin plugin will be installed in your browser. PiP Support for Google Chrome and a Youtube Enchanter will be added.
  
  2. Non-EAS - it uses same EAS types but in addition with removal of system packages. We are using install_wim_tweak to remove these. It makes your system lighter, smoother and faster, but it makes unupdatable.
 ✳️ With non-EAS , you CANNOT apply Windows Updates. To apply Windows Updates, create a ISO Image (from uupdump.net) apply it and apply again the fidelity version. We are recommend to apply this for every 3-6 months.
