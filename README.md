@@ -6,7 +6,7 @@ Fidelity (known as "John Bara Script") is a module to optimize the Windows Opera
 
 Fidelity uses Windows Library to Optimize your system. These more type of system optimization and tweaks. There are of 2 types:
 1. EAS - it uses registry and batch to optimize the system. It applies last registry tweaks for specified Windows Version and a batch which is removing services and unwanted system Tasks and disables Telemetry using Firewall Rules.
-Also is coming with a host, which is playing as an "System Ad-Blcoker".
+Also is coming with a host, which is playing as an "System Ad-Blcoker". (Starting with 11.02 and GamePass Download Errors, we've removed Hosts and Firewall Rules).
 
 ✳️ Windows Defender is not be Removed , and you can do Windows Updates, but you will NOT be annonyed by Updates..
 ✳️ After applying Fidelity, uBlock Origin plugin installed in your browser. Also we added CleanURL for privacy and better web experience, PiP Support for Google Chrome and a Youtube Enchanter.
